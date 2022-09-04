@@ -1,1 +1,0 @@
-cmd_/home/deimos/Documents/rtl8192eu-linux-driver/8192eu.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/deimos/Documents/rtl8192eu-linux-driver/8192eu.ko /home/deimos/Documents/rtl8192eu-linux-driver/8192eu.o /home/deimos/Documents/rtl8192eu-linux-driver/8192eu.mod.o;  true

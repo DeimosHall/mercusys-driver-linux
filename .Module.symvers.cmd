@@ -1,1 +1,0 @@
-cmd_/home/deimos/Documents/rtl8192eu-linux-driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/deimos/Documents/rtl8192eu-linux-driver/modules.order | scripts/mod/modpost -m -a  -o /home/deimos/Documents/rtl8192eu-linux-driver/Module.symvers -e -i Module.symvers   -T -

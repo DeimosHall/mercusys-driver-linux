@@ -1,1 +1,0 @@
-cmd_/home/deimos/Documents/rtl8192eu-linux-driver/modules.order := {   echo /home/deimos/Documents/rtl8192eu-linux-driver/8192eu.ko; :; } | awk '!x[$$0]++' - > /home/deimos/Documents/rtl8192eu-linux-driver/modules.order
